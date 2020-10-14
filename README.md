@@ -1,4 +1,4 @@
-# GIT HOMEWORK
+# Git homework
 - Create a fork of this repository
 - Clone your fork
 - Create a branch named hw-<student number> (should point to master)
