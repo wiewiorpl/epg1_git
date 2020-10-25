@@ -1,0 +1,7 @@
+git clone https://github.com/wiewiorpl/epg1_git
+git checkout -b hw-s15064
+git checkout rebase-me
+git rebase hw-s15064
+git merge hw-s15064 --ff
+git checkout hw-s15064
+git merge origin/merge-me
